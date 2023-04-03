@@ -5,7 +5,6 @@ The attendance system using facial recognition allows for fast and efficient tra
 * Python 3.5 or later
 * OpenCV 4.5.1 or later
 * numpy 1.20.1 or later
-* pymysql 1.0.2 or later
 * pillow 8.1.0 or later
 
 ## Installation
